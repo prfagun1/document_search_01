@@ -1,10 +1,10 @@
-# Guia de Uso do Processo de Detecção de Faces com Azure
+# Guia de Uso do da pesquisa de documentos da Azure com o AI Search
 
-Este é um guiapara utilizar o script de detecção de faces com o Azure Face API.
+Este é um guia para utilizar o script de pesquisa de documentos da Azure com o AI Search.
 
 ## Descrição do Processo
 
-O processo de detecção de faces com o Azure Face API envolve as seguintes etapas:
+O processo de pesquisa de documentos da Azure envolve as seguintes etapas:
 
 1. **Preparação do Ambiente:**
    - O ambiente foi criado seguindo os passos do - [Tutorial de Integração com Serviço de Busca de IA da Azure](https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/11-ai-search.html) no Microsoft Learn.
